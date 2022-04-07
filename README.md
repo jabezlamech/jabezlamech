@@ -9,5 +9,4 @@ jabezlamech/jabezlamech is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-Hi, I'm Jabez, interested in learning web technologies. Though currently I'm working as an integration & automation engineer(experience in TIBCO BW and Workato), would like to see how my full stack learning goes through @odinproject
--- as on 26th January 2022
+Hi, I'm Jabez, Working as a senior integration consultant
